@@ -2,7 +2,7 @@
 ![image](https://github.com/tincho-ds-hub/tincho-ds-hub/assets/43894870/2b81ced4-c18f-4ba5-ad39-67bdf6c87e05)
 
 ## 🚀 Projects
-[a link](https://github.com/user/repo/blob/branch/other_file.md](https://github.com/QuantumBrainLabs/DS-Masters-Project)
+[a link](https://github.com/QuantumBrainLabs/DS-Masters-Project)
 
 
 
